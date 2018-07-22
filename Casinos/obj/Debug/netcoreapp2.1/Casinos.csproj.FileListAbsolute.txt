@@ -1,0 +1,11 @@
+C:\Users\durak\source\repos\Casinos\Casinos\bin\Debug\netcoreapp2.1\Casinos.deps.json
+C:\Users\durak\source\repos\Casinos\Casinos\bin\Debug\netcoreapp2.1\Casinos.runtimeconfig.json
+C:\Users\durak\source\repos\Casinos\Casinos\bin\Debug\netcoreapp2.1\Casinos.runtimeconfig.dev.json
+C:\Users\durak\source\repos\Casinos\Casinos\bin\Debug\netcoreapp2.1\Casinos.dll
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.csprojResolveAssemblyReference.cache
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.csproj.CoreCompileInputs.cache
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.AssemblyInfoInputs.cache
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.AssemblyInfo.cs
+C:\Users\durak\source\repos\Casinos\Casinos\bin\Debug\netcoreapp2.1\Casinos.pdb
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.dll
+C:\Users\durak\source\repos\Casinos\Casinos\obj\Debug\netcoreapp2.1\Casinos.pdb
